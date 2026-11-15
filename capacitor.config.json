@@ -1,0 +1,8 @@
+{
+  "appId": "com.baxi.ai",
+  "appName": "Baxi AI",
+  "webDir": "public",
+  "server": {
+    "androidScheme": "https"
+  }
+}
